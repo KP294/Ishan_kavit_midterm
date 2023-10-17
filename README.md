@@ -1,11 +1,13 @@
 # Ishan_kavit_midterm
 Midterm: Team based Github Project
 
-**DEBATE E-Book vs PHYSICAL BOOKS**
+**DEBATE E-BOOK vs PHYSICAL BOOKS**
 ## Member-1
 ### Kavit patel
 
-hey there, I am Kavit Patel and i am from Gujarat,India. I stand here to defend the timeless charm and irreplaceable value of physical books in our rapidly digitizing world. Physical books are not just objects; they are repositories of culture, vessels of knowledge, and symbols of our collective heritage. For a long time, I was the kind of person who only read eBooks. I could always be found with my Kindle Oasis, talking about how e-readers enable people to carry their entire library around in their pockets. Not anymore. Over the last few years, I have become the kind of person who hangs out in used bookstores, arms filled with piles and piles of books. And I am beginning to think all those people who told me physical books are better had it right.
+hey there, I am Kavit Patel and i am from Gujarat,India.
+
+I stand here to defend the timeless charm and irreplaceable value of physical books in our rapidly digitizing world. Physical books are not just objects; they are repositories of culture, vessels of knowledge, and symbols of our collective heritage. For a long time, I was the kind of person who only read eBooks. I could always be found with my Kindle Oasis, talking about how e-readers enable people to carry their entire library around in their pockets. Not anymore. Over the last few years, I have become the kind of person who hangs out in used bookstores, arms filled with piles and piles of books. And I am beginning to think all those people who told me physical books are better had it right.
 
 <img src="images/2.jpg">
 
