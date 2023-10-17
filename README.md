@@ -23,4 +23,4 @@ Furthermore, physical books do not rely on batteries or electronic devices, maki
 
 In conclusion, physical books are not mere relics of the past; they are indispensable pillars of our cultural identity and literary heritage. They offer a sensory and emotional experience, carry sentimental value, remain accessible to all, and contribute to local economies. 
 
-<img src="images/1.avif">
+<img src="images/1.jpg">
