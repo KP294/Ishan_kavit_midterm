@@ -1,11 +1,13 @@
 # Ishan_kavit_midterm
 Midterm: Team based Github Project
 
-**DEBATE E-Book vs PHYSICAL BOOKS**
+**DEBATE E-BOOK vs PHYSICAL BOOKS**
 ## Member-1
 ### Kavit patel
 
-hey there, I am Kavit Patel and i am from Gujarat,India. I stand here to defend the timeless charm and irreplaceable value of physical books in our rapidly digitizing world. Physical books are not just objects; they are repositories of culture, vessels of knowledge, and symbols of our collective heritage. For a long time, I was the kind of person who only read eBooks. I could always be found with my Kindle Oasis, talking about how e-readers enable people to carry their entire library around in their pockets. Not anymore. Over the last few years, I have become the kind of person who hangs out in used bookstores, arms filled with piles and piles of books. And I am beginning to think all those people who told me physical books are better had it right.
+hey there, I am Kavit Patel and i am from Gujarat,India.
+
+I stand here to defend the timeless charm and irreplaceable value of physical books in our rapidly digitizing world. Physical books are not just objects; they are repositories of culture, vessels of knowledge, and symbols of our collective heritage. For a long time, I was the kind of person who only read eBooks. I could always be found with my Kindle Oasis, talking about how e-readers enable people to carry their entire library around in their pockets. Not anymore. Over the last few years, I have become the kind of person who hangs out in used bookstores, arms filled with piles and piles of books. And I am beginning to think all those people who told me physical books are better had it right.
 
 <img src="images/2.jpg">
 
@@ -23,33 +25,4 @@ Furthermore, physical books do not rely on batteries or electronic devices, maki
 
 In conclusion, physical books are not mere relics of the past; they are indispensable pillars of our cultural identity and literary heritage. They offer a sensory and emotional experience, carry sentimental value, remain accessible to all, and contribute to local economies. 
 
-<img src="images/1.avif">
 
-
-## Member-2
-### Ishan Mehra
-
-Hello readers,
-I, Ishan Mehra is going to argue in favour of E-books as I believe that it is a revolutionary development in the world.
-
-####Accessibility
-
-First and foremost, the invention of e-books which can be assessed via smartphones and tablets has made all the books at our fingertips. People can read them anytime and any where, and this accessibility is really important for students, researchers and avid readers of this busy world who do not have enough time to head to libraries in order to read only.
-
-<img src="images/e-books 4.webp">
-
-
-####Eco-friendly
-Furthermore, E-books are environmentally friendly. The production of physical books demands large amount of paper which can rather be saved if we use e-books everywhere from homes to institutions. Concerning this, I searched for the paper consumption each year just for making books in the whole world, and you will not believe that value was around 85 million tonnes of paper.
-<img src="images/e-books 3.jpg">
-
-
-####Better learning
-Another benefit of using E-books is that it enhances learning. Through e-books, students learn by the mediums of 3D diagram, videos, aminations which not only clear concepts but also makes the learning interesting and effective.
-<img src="images/e-book 5.webp">
-
-####Space saving
-Also, E-books are space- efficient. A single device can hold thousands of books which is advantageous to people with less space. E-books allow readers to have entire library with them all the times.
-<img src="images/e-books 5.jpg">
-
-In conclusion, e-books represent progress. They make knowledge accessible to all, contribute to environmental conservation, foster educational innovation, and enhance convenience.
